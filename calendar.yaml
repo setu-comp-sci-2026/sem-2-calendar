@@ -1,0 +1,96 @@
+# Based on the Weeks table in Semester_2_2027_updated.xlsx.
+# Week 12 uses the corrected 2027 dates. Each date is a Monday.
+# Teaching finishes Friday 7 May 2027; the final calendar week ends Sunday 9 May.
+# Delivery follows sem-2-2025.xlsx: Computer Systems & Networks on Mon/Wed; Database on Thu.
+# Module colours and original course cards are displayed in the web schedule.
+# Assessment details have not yet been supplied.
+# Format: https://github.com/tutors-sdk/python/blob/master/calendar.yaml
+title: Semester 2
+year: 2027
+
+weeks:
+  # On-site event before teaching week 1. The date field is the week start.
+  - date: 2027-01-11
+    week: ~
+    topic: January On-Site - Friday 15 January 2027
+    assessment: ~
+
+  - date: 2027-01-18
+    week: 1
+    topic: First week of lectures - Waterford Campus. Computer Systems & Networks (Monday and Wednesday); Database (Thursday)
+    assessment: ~
+
+  - date: 2027-01-25
+    week: 2
+    topic: Computer Systems & Networks (Monday and Wednesday); Database (Thursday)
+    assessment: ~
+
+  - date: 2027-02-01
+    week: 3
+    topic: Computer Systems & Networks (Monday and Wednesday); Database (Thursday)
+    assessment: ~
+
+  - date: 2027-02-08
+    week: 4
+    topic: Computer Systems & Networks (Monday and Wednesday); Database (Thursday)
+    assessment: ~
+
+  - date: 2027-02-15
+    week: ~
+    topic: Reading Week
+    assessment: ~
+
+  - date: 2027-02-22
+    week: 5
+    topic: Computer Systems & Networks (Monday and Wednesday); Database (Thursday)
+    assessment: ~
+
+  - date: 2027-03-01
+    week: 6
+    topic: Computer Systems & Networks (Monday and Wednesday); Database (Thursday)
+    assessment: ~
+
+  - date: 2027-03-08
+    week: 7
+    topic: Computer Systems & Networks (Monday and Wednesday); Database (Thursday)
+    assessment: ~
+
+  - date: 2027-03-15
+    week: 8
+    topic: Computer Systems & Networks (Monday and Wednesday); Database (Thursday)
+    assessment: ~
+
+  - date: 2027-03-22
+    week: ~
+    topic: Easter Break
+    assessment: ~
+
+  - date: 2027-03-29
+    week: ~
+    topic: Easter Break
+    assessment: ~
+
+  - date: 2027-04-05
+    week: 9
+    topic: Computer Systems & Networks (Monday and Wednesday); Database (Thursday)
+    assessment: ~
+
+  - date: 2027-04-12
+    week: 10
+    topic: Computer Systems & Networks (Monday and Wednesday); Database (Thursday)
+    assessment: ~
+
+  - date: 2027-04-19
+    week: ~
+    topic: Reading Week
+    assessment: ~
+
+  - date: 2027-04-26
+    week: 11
+    topic: Computer Systems & Networks (Monday and Wednesday); Database (Thursday)
+    assessment: ~
+
+  - date: 2027-05-03
+    week: 12
+    topic: Computer Systems & Networks (Monday and Wednesday); Database (Thursday)
+    assessment: ~

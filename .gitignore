@@ -1,1 +1,5 @@
 json
+html/
+__pycache__/
+*.inspect.ndjson
+scripts/styled-calendar.png

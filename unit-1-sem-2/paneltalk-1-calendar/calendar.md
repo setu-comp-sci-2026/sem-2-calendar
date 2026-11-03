@@ -1,3 +1,3 @@
-Academic Calendar 
+Semester 2 calendar 2027
 
-weeks · reading week  · semester · onsites 
+Monday-to-Sunday calendar, including January On-Site on Friday 15 January. Modules and webinar details to follow.
